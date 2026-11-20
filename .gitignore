@@ -1,0 +1,16 @@
+# Arquivos gerados pela compilacao
+*.exe
+*.o
+*.obj
+*.out
+
+# Arquivos de layout de IDE
+*.layout
+
+# Arquivos de dados gerados durante a execucao
+playlist.txt
+historico.txt
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
