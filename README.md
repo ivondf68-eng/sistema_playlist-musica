@@ -7,7 +7,7 @@ Projeto desenvolvido em C na disciplina de Estrutura de Dados, com o objetivo de
 - Adicionar músicas à playlist, incluindo inserção no início e no final.
 - Inserir músicas em posições específicas da playlist.
 - Remover e buscar músicas.
-- Simular e movimentar músicas na playlist.
+- Simular a reprodução de músicas e movimentá-las na playlist.
 - Gerenciar o histórico de reprodução.
 - Salvar e carregar playlists em arquivos.
 - Salvar e restaurar o histórico de reprodução.
